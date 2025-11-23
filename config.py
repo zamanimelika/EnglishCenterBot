@@ -12,7 +12,7 @@ db_config = {
 }
 
 # Bot Token
-API_TOKEN = "8453754975:AAHfEenvD_MOWunXmGumfbEu0X0V8jMS0UQ"
+API_TOKEN = "API_TOKEN"
 
 # Channels & Admins
 CHANNEL_CID = -1003320355055
@@ -24,3 +24,4 @@ admins = [662801794]
 ENGLISH_CHANNEL_LINK = "https://t.me/englishclass_ed"
 COURSES_CHANNEL_CID = -1003320355055
 COURSES_CHANNEL_LINK = "https://t.me/englishclass_ed"
+
