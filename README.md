@@ -1,2 +1,2 @@
-# English-class
-Telegram bot for a language institute
+# EnglishCenterBot
+written in Python, designed to simplify and automate educational and administrative processes
